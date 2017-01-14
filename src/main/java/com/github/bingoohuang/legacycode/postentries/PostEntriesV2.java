@@ -1,4 +1,4 @@
-package com.github.bingoohuang.legacycode;
+package com.github.bingoohuang.legacycode.postentries;
 
 import java.util.Iterator;
 import java.util.LinkedList;
